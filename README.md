@@ -5,4 +5,4 @@ then paste settings.json onto yours
 
 Sample:
 
-![alt text](image-1.png)
+![alt text](image.png)
