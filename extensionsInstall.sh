@@ -9,6 +9,7 @@ EXTENSIONS=(
   "johnpapa.vscode-peacock"
   "yzhang.markdown-all-in-one"
   "ritwickdey.liveserver"
+  "wraith13.background-phi-colors"
 )
 
 # Install each extension
